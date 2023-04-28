@@ -1,9 +1,11 @@
 //complete this code
 class Animal {
 	constructor(species){
+		this.species = species;
 	}
-
+	
 	makeSound(){
+		
 	}
 }
 
