@@ -3,7 +3,7 @@ class Animal {
 	constructor(species){
 	}
 
-	get makeSound(){
+	makeSound(){
 	}
 }
 
